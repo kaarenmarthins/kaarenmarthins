@@ -2,7 +2,7 @@
 
 
 ### About
-I'm studying web development at [Rocketseat] (www.rocketseat.com.br)
+I'm studying web development at [Rocketseat](www.rocketseat.com.br)
 
 ## Current stack
 - Frontend: `HTML5`, `CSS3`, `JavaScript`
