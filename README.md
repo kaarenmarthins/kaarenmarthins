@@ -19,4 +19,4 @@ I'm studying web development at [Rocketseat] (www.rocketseat.com.br)
 ## Contacts
 
 - Email: karen.martinsd@gmail.com
-- Linkedin: (https://www.linkedin.com/in/kaarenmarthins/)
+- Linkedin: https://www.linkedin.com/in/kaarenmarthins/
